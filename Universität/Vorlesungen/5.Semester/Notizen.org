@@ -1,0 +1,964 @@
+#+STARTUP: indent
+#+STARTUP: overview
+
+
+Easy math markup can be done with cdlatex!
+
+
+* Produktentwicklung
+
+
+** Notizen [2015-10-19 Mon]   
+
+*** REACH - Registration Evaluation Authorization (of Chemicals)
+*** Umsetzung von REACH
+ 1. Registrierung $ \rightarrow$ Bewertung von Chemikalien und Registrierung bei ECHA
+ 2. Evaluierung $\rightarrow$ Aufgabe der Behörde, Bewertung der Registrierung der Unternehmen, 5 \% der
+     Registrierungen werden durch die Bundesanstalt auf ihre Qualität überprüft, es wird weiterhin bewertet ob die Substanzen eventuell
+     besorgniserregend sind
+ 3. Zulassung (Autorisierung) $\rightarrow$  Behörden können in einem formellen Verfahren Stoffe als besonders besorgniserregend
+     deklarieren. Dabei gelten die Kriterien bzgl. CMR Eigenschaften, giftig, langlebig in Umwelt, sehr langlebig in Umwelt, hormonelle
+     Auswirkung
+
+*** Bei besonders besorgniserregenden Stoffen erfolgt ... über standardisierte Formblätter (SDB). Sind solche Stoffe in $\omega > 0.1 \%$
+   in einem Produkt enthalten, so muss die entsprechend. Information an den Kunden weitergegeben werden.
+                                                      .
+                                                      .
+*** Regeln zum Tierschutz                             .
+**** Tierversuche nur als letzte Möglichkeit          .
+**** Versuche an Wirbeltieren müssen detailliert bei E..A beantragt werden. (Genaue Versuchsbeschreibung) ECHA veröffentlicht diese Versuchsvorschläge
+     um Einwände um Informationen von Dritten zu sa.mel..$\rightarrow$  Grundlage für Genehmigung, genaue Vorgabe
+                                                        .
+*** Zuständig in Deutschland: BAA - Bundesanstalt für Arb.itsschutz und Arbeitsmedizin
+                                                        .
+*** CLP \rightarrow Classification, Labelling and Packaging
+*** GHS \rightarrow Globally harmonized system
+*** Koordination von Verfahren mit anderen beteiligten Behörden
+
+*** ECHA in Helsinki
+*** BFR - Bundesinstitut für Risikobewertung
+*** QS - Pharma
+*** Spektroskopische Methoden
+**** UV-VIS
+**** NIR
+**** Refraktometrie
+
+*** Beschwerdemanagement
+*** Kunde -Erwartung-> Produkt -zufrieden-> Kauft wieder
+**** Oder: Erwartung nicht erfüllt -Keine Beschwerde-> Kunde verloren?
+***** -Beschwerde-> Hersteller muss reagieren - Jede Beschwerde ernst nehmen
+      - nach schneller Lösung suchen
+      - Behebung des Fehlers zu definiertem Datum
+:Fallbeispiel:
+Kunde BASF --> Beschwerde bei Thermo
+- Aufnahme der Beschwerde
+-
+
+
+- GCMS wird geliefert, installiert, abgenommen
+- gegenseitig dokumentiert
+:END:
+*** Motivierte Mitarbeiter
+**** Entlohnung der Situation ...
+**** Lob und Anerkennung
+**** Möglichkeit zur Weiterbildung
+**** kreatives Potenzial fördern
+**** unternehmerisches Denken und Handeln der Mitarbeiter fördern
+**** flache Hierarchie
+** Notizen [2015-11-02 Mon]
+*** Integriertes QM
+**** DIN EN ISO 9001
+***** Ein Weg zum Total Quality Management
+***** Dokumentation des QM erfolgt durch Qualitätshandbuch, Herausgabe durch Management
+****** Firmenseite : Darstellung des Unternehmens (Corporate Design)
+****** Einleitung : Bezug z.B. auf ISO 9001, Geltungsbereich des QM wird beschrieben
+****** Selbstbeschreibung des Unternehmens
+****** Leitbild (Qualitätspolitik) des Unternehmens (Freigabe durch Geschäftsführung notwendig)
+****** Ressourcen
+******* Wahrnehmung der Arbeitssicherheit, Überprüfung durch externe Kräfte
+******* Fortbildung der Mitarbeiter
+****** Prozesse des Unternehmens
+******* Führungsprozesse
+******** Klar definierte Führungsstrukturen, Organigramm
+******** Festlegung von Zielen
+******** Systemtests
+******** Überprüfung durch das Management
+****** Wertschöpfungsprozesse
+******* Richten sich nach Kunden und werden kontinuierlich an Kundenwünsche angepasst
+******* Unterstützungsprozesse zum reibungslosen Ablauf der Wertschöpfungsprozesse
+****** Messung und Analyse der Verbesserung
+****** Mitgeltende Unterlagen
+***** Sehr oft Bestandteil von Vertragsverhandlungen
+***** Bedarf einer regelmäßigen Überprüfung (Audits)
+****** Durch externe, neutrale, übergeordnete, authorisierte Trägergesellschaften
+****** Interne, autorisierte Mitarbeiter
+****** Kunden
+****** DAR -> Deutscher Akkreditierungsrat
+*****  
+**** Qualitätstechniken
+***** Just in time:
+** Notizen [2015-11-16 Mon]
+*** Arbeitsanweisungen (SOP)
+*** Kundenprozesse
+*** Interne Organisationsprozesse
+*** Beispiel von Hr. Moster: QM-Handbuch von Baden-Württemberg
+
+Prüflaboratorien unterliegen einer speziellen Überprüfung --> Teilnahme an Ringversuchen
+*** Prüfmittel
+- Bedürfen der Überprüfung nach entsprechenden DIN-Normen
+- Prüfmittel der instrumentellen Analytik - Auflage:
+  a) Regelmäßige Wartung durch qualifiziertes Personal
+  b) Schriftlicher Nachweis im Logbuch
+
+# Liest von Präsentation ab
+*** Referenzmaterialien
+- Primärstandards
+  - zertifiziert
+    - Flüssigstandards (z.B. von Merck)
+    - Gewebestandards (z.B. Blut, z.B. von NBA)
+**** Beispiel: optische Geräte
+Gebräuchliche Standards
+
+|                         |                                                          |
+|-------------------------+----------------------------------------------------------|
+| Zertifizierte Filter -> | Primärstandards                                          |
+|                         | Sekundärstandards zu beziehen durch den Gerätehersteller |
+|                         |                                                          |
+
+
+
+
+
+Angebote der Gerätehersteller:
+1. Wartungsvertrag regelt
+    a) Wartungsvertrag
+    b)geforderte Überprüfungen
+2. Reparaturvertrag regelt
+   a) Reaktionszeit des Service
+   b) und die vereinbarten Maßnahmen
+*** Qualitätszirkel
+*** Qualitätswerkzeuge
+Fehlerliste:
+- optische Betrachtung nach äußerlichen Schäden
+  - Kratzer, Beulen, Farbunterschiede
+Qualitätsregelkarte - Bestandteil des Prozessleitsystems
+
+
+
+*** Nächstes Mal: Fragerunde zum QM
+
+
+*** Führung / Interne Kommunikation
+**** Kommunikationspolitik 
+***** Externer Bereich
+- Kunde
+- Umfeld des Unternehmens
+***** Interner Bereich
+- Mitarbeiter
+
+*** Corporate design
+- Werbung
+- Auftritt in Medien
+- Produktdesign
+- Logo
+- Prozessdesign
+** Notizen [2015-11-23 Mon]
+*** Mitarbeitergespräch
+1. Einladungsthema
+2. Ort und Zeit festlegen
+3. Keine Störungen, geeigneter Ort
+4. Gesprächsvorbereitung, Gewichtung der Gesprächspunkte in der richtigen Reihenfolge, Reihenfolge nach Wichtigkeit
+5. Gesprächsführung
+6. Gemeinsame Zusammenfassung, sind noch Punkte offen?
+7. Neuer Termin?
+8. Sind beide zufrieden?
+   Empfehlung: kurze persönliche Reflektion
+*** Unternehmensziele gibt Top-Management vor
+**** Hauptabteilungsleiter 1 
+**** Hauptabteilungsleiter 2 
+**** Hauptabteilungsleiter 3 
+*** Vorgesetzter --> Mitarbeiter
+Es geht um eine Beförderung --> Leitung einer Laboreinheit mit zehn Mitarbeitern übernehmen
+**** Aus Sicht des Vorgesetzten geht es um die baldige Besetzung der Stelle
+- Traut Mitarbeiter das zu
+- Was ist erforderlich, damit die Position besetzt werden kann?
+**** Gespräch
+***** Abklärung 
+- Mitarbeiter ist grundsätzlich bereit, aber einige Bedenken
+- Keine Erfahrung mit Mitarbeiterführung
+- Arbeitsrecht
+- Zusatzausbildung im technischen Bereich
+***** Zusammenfassung
+****** Protokoll
+- Gespräch geführt, Datum, Uhrzeit
+- Vereinbarung: 
+- MA besetzt Position zum 1.1.2016
+  - Vertragliche Vereinbarung:
+    - Einkommen, Status des MA
+    - Dienstwagen
+    - Verantwortungsbereich
+    - Weiterbildungen
+    - Kündigungsfristen
+**** Zielvereinbarung
+- Leistungsverbesserung
+Aufgabenstellung:
+In Technikumsversuch soll Ausbeute eines Prozesses verbessert werden
+- Vorgesetzer wird Mitarbeiter einladen
+Diskussion:
+- Erstellung eines Versuchsplanes (1..n Möglichkeiten) mit Zwischenfeedbacks, Zwischenkontrolle
+- Vereinbarung: Zeitplan
+  für Ergebnispräsentationen
+- Erreichung eines Ziels über Zwischenziele
+- Ziele sollen erreichbar sein
+
+
+
+*** Mitarbeiter : "Position ist erstrebenswert"
+- Bedenken:
+  - Zeitlicher Aspekt
+  - Mehr Arbeit
+  - Mehr Verantwortung, Mitarbeiterführung
+  - Ist Akzeptanz der zukünftigen Mitarbeiter vorhanden?
+  - Ist Akzeptanz im privaten Umfeld vorhanden?
+  - Finanzielle Rahmenbedingungen
+  - andere Benefits
+
+
+*** Mitarbeiter beurteilen
+- tariflich einmal pro Jahr nach gewissen Rahmenbedingungen
+- bei einem Zwischenzeugnis
+- Jahresbonus, wenn damit eine Leistungsüberprüfung verbunden ist
+- bei Zielerreichungskontrolle
+- Beförderung
+- Versetzung
+- nach Ablauf der Probezeit
+- nach einem Disziplinargespräch
+- ständig
+** Notizen [2015-11-30 Mon]
+*** Wiederholung der Notizen der letzten Vorlesung
+*** 
+Was muss getan werden um die Weiterentwicklung eines Mitarbeiters
+voranzutreiben?
+*** Lehr- und Unterweisungsgespräche
+Training on the Job,
+Z.B. in hygienischen oder sicherheitsrelevanten Bereichen
+*** Anlassbezogene Gespräche
+Sehr kurzfristig aufgrund besonderer Ereignisse, z.B.:
+- neuer Mitarbeiter --> Einführungsgespräch (optional)
+- Lob und Anerkennung
+- Fehlverhalten
+- Ausscheiden eines Mitarbeiters (optional)
+*** Kritikgespräche
+Beispiele
+| 1.Fall                                    | 2.Fall                 | 3.Fall                                           |
+| Verstoß gegen                             | Leistungsabfall        | MA rastet an                                     |
+| Arbeitssicherheitsvorschrift              | bei starkem MA         | Arbeitsplatz aus                                 |
+|-------------------------------------------+------------------------+--------------------------------------------------|
+|                                           | Informationen einholen | 1. Vorfall wurde gemeldet                        |
+| Sofort reagieren, Gefahr beenden          | Zum Gespräch einladen  | Gespräch vereinbaren                             |
+| Gespräch:                                 | Behutsam ansprechen    |                                                  |
+| Gründe für Verstoß herausfinden           | Hintergründe erfragen  | 2. Vorgesetzter kommt dazu                       |
+| Risiken erklären bzw. erarbeiten          | evtl. Hilfe anbieten   | Nach Hause schicken, Gespräch am nächsten Tag    |
+| Reaktion von bisherigem Verhalten und Art | Ziel vereinbaren       | 3. Permanent                                     |
+| des Verstoßes abhängig machen             | Nachfolgegespräche     | Wutbewältigungsseminar, Arztbesuch etc. anordnen |
+| Protokoll                                 |                        |                                                  |
+|                                           |                        |                                                  | 
+  
+
+*** Disziplinargespräch
+Gründe:
+- Suchterkrankungen und Erkrankungen
+  Nicht zwangsläufig Kündigungsgrund
+Durchführung:
+Bei Suchterkrankungen:
+Wenn Leugnung: Test fordern
+Immer mit Zeugen
+Betroffenem anbieten, Person mitzubringen
+Ort wählen, der nach Gespräch Rückzug ermöglicht
+Nicht delegieren
+Kann jedem mit Personalverantwortung passieren
+Fordern, dass etwas unternommen wird, z.B  Entzugskur (nicht bezahlt, Krankengeld stattdessen)
+Folgegespräche --> Am Balĺ bleiben
+Wiedereingliederungsmaßnahme
+Wenn Maßnahmen verweigert werden: Abmahnungen, bis hin zur Kündigung
+
+*** Mitarbeiterbesprechungen
+Definition: Vorgesetzter spricht mit mehreren Mitarbeitern
+Anlässe:
+- regelmäßige Dienstbesprechung
+- Marketingbesprechung
+- Vertriebs-Verkaufsbesprechung
+- Besprechung zu Projektentwicklung
+Empfehlung:
+- Erfolg durch gute Vor- und Nachbereitung sicherstellen
+- Meeting nur zu wichtigen Anlässen
+**** Vorbereitung
+1) Thema exakt definieren (Hinterfragen: Ist Meeting überhaupt erforderlich?)
+2) Wenn Meeting erforderlich:
+   a) Wer muss eingeladen werden?
+   b) Wo findet Meeting statt?
+   c) Agenda entwerfen
+   d) Zeitfenster verbindlich festlegen
+3) Einladung versenden
+   - Ort
+   - Zeitrahmen
+   - Thema
+   - Agenda
+4) Agenda: Inhalt
+   1) Begrüßung
+   2) Einführung in das Thema, Benennung des Protokollführers, Anlegen einer TODO-Liste
+      Benennung des Moderators--> Aufgaben des Moderators:
+      - Gespräch zielorientiert leiten
+      - Aufgaben delegieren
+      - Optimal vorbereitet sein
+      - Zusammenfassung der Ergebnisse und hinterfragen --> Sind alle zufrieden?
+   
+   3).. n-m) Aus den TOPS soll auch hervorgehen, welche Aufgaben und Beiträge die Teilnehmer übernehmen sollen  
+   m) Zusammenfassung
+   m+1) Ergebnis
+   m+2) Aufgabenverteilung
+   m+3) Nächster Termin
+*** Vertriebsbesprechung 
+- als Telefonkonferenz oder Videokonferenz
+- extrem gute Vorbereitung
+- Ersparnis von Reisekosten
+- man kann Zeitfenster wählen, das für alle günstig ist
+- Zeitfenster muss unbedingt eingehalten werden
+*** Regelmäßige Dienstgespräche
+Produktion:
+- Festlegung des Arbeitsplans für die laufende Woche
+- Besprechung von Besonderheiten
+- Verbesserungsvorschläge
+- Aufgabenverteilung
+*** Klausurvorbereitung (ungefährer Rahmen)
+1) Produktentwicklung
+   - Produktidee, wie kommt man dazu?
+   - Voraussetzungen für eine erfolgreiche Produktidee
+   - tuwun, Trendscouting
+   - Entwicklung von Produkten in den Bereichen:
+     - Technik
+     - Chemie
+     - Lebensmittel
+     - ähnliches
+     - NICHT Pharma
+
+2) 
+
+
+
+
+
+
+* Rechnungswesen
+** Notizen [2015-10-19 Mon]
+*** Break even analyse
+*** Erzeugnis X Verkaufspreis = 10.5 €/1
+**** fixe Kosten = 49300 €/1
+**** variable Kosten = 2 €/1
+**** Höhe der Break-even-Menge:
+**** fixe Kosten + varKosten*Stückzahl < Verkaufspreis*Stückzahl
+**** F = fixe Kosten
+**** V = variable Kosten
+**** n = Stückzahl
+**** P = Verkaufspreis
+*** F + V*n < P*n
+*** F < (P-V)*n
+*** Strategische Planung
+*** Umfeld Wirtschaftlich
+**** Beschaffung
+***** -Ökonomische Veränderungen: Beschaffung, Absatz, neue Konkurrenten, Konzentrationsprozesse
+-Gesetzliche Veränderungen: Staatliche Eingriffe, politische Veränderung, Abbau Handelsschranken
+
+**** Absatz
+**** Konkurrenz
+**** Technische Entwicklung
+***** Wirkstoffe, Verfahren
+*** Umfeld Sozial
+**** Bevölkerungsstruktur, Wachstum, Altersstruktur
+**** soziokulturelle Veränderung, Wertewandel, Verhaltensänderung, Kommunen, Organisationen, Öffentlichkeit
+**** Angst vor komplexen, schwerverständlichen Bereichen und Entwicklungen
+****
+** Notizen [2015-10-22 Thu]
+*** Portfolio Analyse
+Portfolio sollte immer ausgewogen sein
+**** Abbildung
+***** y = Marktattraktivität
+***** x = relative Wettbewerbsposition
+***** Vier Quadranten:
+****** Entwicklungsprodukte
+****** poor dogs
+****** stars
+****** cash cows
+**** Marktattraktivität
+***** Wachstum
+***** Volumen
+***** Qualität
+***** Energie-/ Rohstoffversorgung
+***** Umfeldsituation
+**** relative Wettbewerbsposition
+***** Marktanteil
+***** Produktionspotenzial
+***** Kostensituation
+***** F&E-Potential
+***** Qualifikation der Mitarbeiter und Führungskräfte
+****
+*** Was wissen wir vom Konkurrent und wie wichtig ist das?
+**** TODO Diese Tabelle füllen -> Logik nachvollziehen
+
+|                        | Bedeutung |         | Informationsstand |
+|------------------------+-----------+---------+-------------------|
+| Gesamtstrategie        |           |         |                   |
+| Produktqualität        |           |         |                   |
+| Preise/Konditionen     |           |         |                   |
+| Vertrieb/Außendienst   |           |         |                   |
+| Logistik               |           |         |                   |
+| Image                  |           |         |                   |
+| F & E Strategie        |           |         |                   |
+| Kostensituation        |           |         |                   |
+| Produkttechnologie     |           |         |                   |
+| Personen im Management |           |         |                   |
+| Prozesstechnologie     |           |         |                   |
+| Finanzkraft            |           |         |                   |
+|------------------------+-----------+---------+-------------------|
+|                        | hoch      | niedrig |                   |
+**** Wichtigkeit für Kunden
+Wichtigkeit für Kunden auf y-Achse
+eigene Leistung auf x-Achse
+Punkte in dieser Ebene:
+- Lieferzuverlässigkeit
+- Distribution
+- Preis
+- Qualität
+- Anwendungshilfe/after sales service
+- Design
+- Verpackung
+- Kommunikation/Werbung
+***** Angriffsstrategien  --> Klarer Vorteil in Leistung und/oder Preis
+***** Verteidigungsstrategien --> Schneller lernen, immer ein Stück voraus sein, neue Parameter ins Spiel bringen
+***** Zusammenfassung
+- Kenne deine Gegner
+- Jeder Wettbewerbsparameter bietet eine Chance
+- Konzentration auf wenige Parameter
+  - Müssen für Kunden wichtig sein um wahrgenommen zu werden
+- Grenze dich ab vom Mainstream
+****
+** Notizen [2015-11-02 Mon]
+*** Mit jeder Verdoppelung der kumulierten Mengen sinken
+die Stückkosten auf 70-80 % des Ausgangswertes
+- nur Wertschöpfung
+- ohne Inflation
+- nicht automatisch,nur wenn Leitung alle Rationalisierungsmöglichkeiten ausschöpft
+- Güter müssen homogen sein
+*** Bei Vorliegen einer 80 % Kurve
+**** K_1 = Stückkosten einer Produktionseinheit
+K_n = Stückkosten von n Produktionseinheiten
+n   = Kumulierte Produktionsmenge
+b   = Degressionsfaktor
+p   = Erfahrungszuwachs
+q   = Kostenreduktionsfaktor = k_zn/k_n = 80 %
+kn = k1*n^-b
+kzn = k1*(2n)^-b
+q = 2^-b
+log q = -b*log2
+b = -logq/log2
+kn = k1*n^(logq/log2)
+
+| Jahr | Produktionsmenge |    | Kosten |
+|------+------------------+----+--------|
+|    1 |               10 | 10 |        |
+|    2 |               10 | 20 |     80 |
+|    3 |               10 | 30 |  70.21 |
+|    4 |               10 | 40 |   64.0 |
+|    5 |               10 | 50 |   59.6 |
+|    6 |               10 | 60 |   56.2 |
+|    7 |               10 | 70 |   53.5 |
+|    8 |               10 | 80 |   51.2 |
+|      |                  |    |        |
+*** Industriekostenkurve
+Faktoren, die Einfluss auf Rentabilität einer Geschäftseinheit:
+- Relativer Marktanteil
+- Relative Qualität
+- Investment-Intensität
+- Produktionseffizienz
+- Relative Herstellkosten
+- Kapazitätsauslastung
+- Vertikale Integration
+- Reales Marktwachstum
+- Durchschnittliche Auftragsgröße
+- Kundenstruktur
+- Innovationsrate
+
+** Notizen [2015-11-05 Thu]
+1. Analyse der Ausgangsposition
+   - intern, extern --> Konkurrenz, Wettbewerbsvorteil
+2. Formulierung Strategien
+   - für einzelne Arbeitsgebiete
+   - passt das zum Gesamtunternehmen?
+   - Ressourcen, Finanzierung, Risiko
+   - Zeitrahmen, milestones
+3. Umsetzen in konkrete operative Planung
+   - Produkte
+   - Märkte
+   - Kunden
+   - Presse
+   - Mengen
+   - Kosten
+   - Projekte
+   - Ressourcenzuteilung
+4. Gestaltung der eigenen Organisation
+   - Aufgliederung in strategische Geschäftseinheiten:
+     Eigenständige Divisionen mit eigener Geschäftsführung und Ergebnisverantwortung
+     müssen stillgelegt oder verkauft werden können ohne dass andere Geschäftsbereiche beeinträchtigt werden
+     klar definierte Wettbewerber
+
+5. Durchführung und Kontrolle
+   - Kontrolle der Prämissen
+   - Kontrolle der Durchführung
+   - Strategische Überwachung (passen unsere Strategien noch in die Welt?, sind neue, nicht vorhergesehene Risiken aufgetaucht?)
+ 
+*** Projektorganisation, Grundsätze
+- Präzise, schriftlich formulierte Projektziele
+- Definierter Zeitrahmen, straffe Durchführung
+- Definition und Sicherstellung von Ressourcen
+  - Personal, Finanzmittel, Sachmittel
+- Leitungsstruktur
+  - verantwortlicher Projektleiter
+  - Lenkungskreis
+  - Arbeitsgruppen
+  - regelmäßige Berichte (Protokolle)
+
+*** Investition, Begriff und Darstellung --> Arbeitsblatt
+
+- (Auszahlung,Einzahlung) direkt Kassenwirksam
+- (Kosten,Erlöse)
+
+** Kein Rechnungswesen <2015-11-16 Mon>
+** Notizen [2015-11-09 Mon]
+*** Zinsrechnung
+
+| Jahre | Kapital zum Jahresbeginn | Zinsen    | Kapital am Jahresende         |   |
+|-------+--------------------------+-----------+-------------------------------+---|
+|     1 | k_0                      | k_0 * i   | k_1 = k_0+k_0*i = k_0*(1+i)^1 |   |
+|     2 | k_1                      | k_1 * i   | k_2 = k_1+k_1*i = ...         |   |
+|     3 | k_2                      | k_2 *i    | k_3 = k_2+k_2*i = ...         |   |
+|     n | k_{n-1}                  | k_{n-1}*i | k_n = k_{n-1} = k_0*(1+i)^n   |   |
+*** Zahlungsreihe
+mit gleichbleibenden Beträgen (Rente)
+#+BEGIN_LaTex
+k_0 = \frac{g}{(1+i)^i}+ \frac{g}{(1+i)^i}+\frac {g}{(1+i)^i}+... +\frac{g}{(1+i)^i}
+\Rightarrow : Geometrische Reihe mit Faktor \frac{1}{1+i}
+#+END_LaTex
+Summenformel für geometrische Reihe:
+#+BEGIN_LaTex
+\[ S_n = a\cdot\frac{1+f^n}{1-f}\]
+
+Rente:
+\[K_0 =  g\cdot \frac{1}{1+i}\cdot \frac{1-\frac{}{}  \]
+#+END_LaTex
+
+Bsp:
+Raucher, Restlebenszeit t  = 40 Jahre
+Ausgaben f. Zigaretten pro Jahr P = 1200€/a
+Zinssatz z = 0.06
+#+NAME: Barwert
+#+BEGIN_SRC python
+g = 1200
+i = 0.06
+n = 40
+
+def barwert(g,i,n):
+    A = (1+i)**n
+    k0 = g*((A-1)/(i*A))
+    return k0
+barwert(g,i,n)
+#+END_SRC 
+
+
+
+#+RESULTS Barwert
+** Notizen [2015-11-12 Thu]
+Einzeldiskontierung:
+K_n = K_0(1+i)^n
+
+Rente:
+K_0 = ((g*(1+i)^n) -1)/i(1+i)^n)
+
+ewige Rente: 
+ 
+K_0 = g*1/i
+
+Bsp.:
+Anlage kostet K = 150 k€
+Einsparung jährlicher Fremdschleifkosten E = 80 k€
+Betriebskosten Neuanlage jährlich B = 50 k€
+Restwert nach 8 Jahren R = 20 k€
+Zinssatz Z = 0.1
+-------
+
+Bsp. :
+Landwirt liefert Kies an Baugesellschaft
+n = 4 Jahre, 280 € pro Jahr
+Transportkosten T = [190,80,70,160]
+Abbaugerät und LKW kosten einmalig 600 €
+Restwert nach 4 Jahren: 200 €
+Z = 0.07
+
+
+-600 | 280-190 | 280-80 | 280-70 | 200+280-160
+
+
+
+
+
+Endwert Rente:
+\[K_n = g\cdot \frac{(1+i)^n -1}{i} \]
+** Notizen [2015-11-23 Mon]
+Kapitalwertkurve --> Ermittlung des internen Zinssatzes durch Nullstellenberechnung
+*** Investition
+8 Jahre, Zinsbetrag 30000, jährliche Betriebsausgaben 3200, jährliche Einzahlungen 8000
+Restwert 3600
+
+
+| -30000 | 4800 | 4800 | 3600+ 4800 |
+|--------+------+------+------------|
+|      0 |    1 |    n |          8 | 
+
+| Zins |        |   K_0 |
+|------+--------+-------|
+| 0.06 |  2076. |  2066 |
+| 0.08 |  -456. |  -471 |
+|  0.1 | -2700. | -2713 |
+#+TBLFM: $2=4800*5.335+3600*0.47-30000
+
+Sachinvestitionen
+
+
+
+Lieferwagen
+| -40000 | 8500 | 7800 | 7700 | 8500 | 13800 |
+|--------+------+------+------+------+-------|
+|        |      |      |      |      |       |
+#+TBLFM: $3=8500-700::$4=8500-800::$6=6000+8500-700
+
+Zinssatz  = 0.08
+
+
+
+Ergebnis = 8.64 % 
+
+
+Wenn Rechnung verlangt: Viele Rechnungen anfertigen, viele
+Szenarien aufstellen, alle Schritte genau dokumentieren
+*** Verfahrenswechsel
+Fixkosten: Parallel zur x-Achse
+Je mehr variable Kosten, desto steiler die Kostenfunktion
+**** Halbautomat
+Anschaffung: 6667
+Dauer: 10 Jahre
+Restwert: 0
+Unlesbar: 3€+7€
+K_H = 6667/10+6667/2*0.1+10x
+K_H = 1000+ 10x
+**** Vollautomat
+Anschaffung: 20000
+Dauer: 10 Jahre
+Restwert: 0
+Unlesbar: 2€ + 0.5 €
+K_V = 20000/10 + 20000/2*0.1+2.5x
+K_V = 3000+ 2.5x
+** Notizen [2015-11-26 Thu] 
+*** Target Costing
+|                         |                                                    |
+|-------------------------+----------------------------------------------------|
+| Entwicklung             | Was will der Kunde?                                |
+| Prototyp                | Was darf ein Produkt kosten?                       |
+| Produktion              | Was darf ein bestimmtes Produktionsmerkmal kosten? |
+| Anwendungsmöglichkeiten | Produktentwicklung, Zielgruppen                    |
+| Verkauf                 | Produktion --> Absatz                              |
+
+
+
+* Innovations- und Changemanagement
+** Notizen [2015-10-23 Fri]
+*** Thema: Unternehmenskultur
+** Notizen [2015-11-13 Fri]
+
+Ratschlag Weber:
+Eine Lektion aus jedem Scheitern ziehen.
+
+
+(Beginn Innovationsmanagement)
+Barrieren von Innovationen
+- Finanzen
+- Gesetzgebung, Regulation
+- Mangelnde Nutzung von Kreativität
+- Einseitige Bewertung von Technik
+
+Gründe für Innovationen:
+- Befriedigung von Kundennutzen
+- Existenzsicherung des Unternehmens
+- Dient Mensch und Umwelt
+- Unterstützt ein menschenwürdiges Leben
+- Dient der globalen Gerechtigkeit
+
+Bemerkung: Innovation muss erkennbar sinnstiftend
+für diese und die folgende Generation sein.
+Die eine erzeugt Innovationen, die andere hat
+sie zu ertragen.
+
+
+Kicker als Blockadenlöser, Unterbewusstsein arbeitet
+ohne Druck weiter an Lösung des Problems.
+**** Kreativitätstechniken
+Was sind
+***** Intuitive Kreativitätstechniken,
+***** Diskursive Kreativitätstechniken
+-> Aus Liste mehrere kennen und eine 
+nennen/erklären können
+--> Klausur
+
+***** Kopfstandbrainstorming:
+"Was müssen wir tun, damit die Idee/ das Projekt auf jeden Fall
+scheitert."
+***** 
+
+
+
+
+
+
+**** Interessante Begriffe
+***** Risikokapital
+***** TODO Risikokapitalgeber (englischen Begriff  
+** Notizen [2015-11-20 Fri]
+
+*** Geforderte Fähigkeiten
+An einem Beispiel beurteilen können, welche Art einer Innovation vorliegt.
+
+
+Innovationsprozess abbilden können.
+
+*** Intuition
+"Gigerenzer" ???
+
+*** 
+* Marketing
+** Notizen [2015-11-16 Mon]
+Igor Ansoff --> Kundenorientierte Strategien
+
+
+* Unternehmensberatung
+** Notizen [2015-11-13 Fri]  Strategieberatung
+
+Definition Strategie:
+Langfristige Planung (ca. 5 Jahre)
+Siehe auch: Definition in Gabler Wirtschaftslexikon
+Zu unterscheiden von
+Taktische Planung:
+Planung für ca. zwei Jahre
+und
+Operative Planung
+
+
+
+**** Beschäftigungsfelder der Strategieberatung 
+
+***** Business Development
+Business Development heißt im Prinzip Verkauf --> Ich forciere das Geschäft in eine bestimmte Richtung
+
+***** Business Innovation
+Sich mit neuen Dingen beschäftigen, z.B. Dinge zu verkaufen
+
+***** Marketing-/Vertriebsstrategie
+
+***** Corporate finance
+Klassische Beratungstätigkeiten wie Unterstützung bei Buchhaltung, Steuerberatung
+
+***** Corporate social responsibility
+Einhaltung der Verantwortung des Unternehmens gegenüber der Gesellschaft
+
+
+
+***** Corporate strategy
+Langfristige Sicherung des Überlebens
+des Unternehmens
+
+turnaround: Umsatz
+
+**** Tätigkeitsschwerpunkte der Unternehmensberatung/Strategieberatung
+Berater sind hauptsächlich mit dem Topmanagement konfrontiert
+
+***** Anforderungen
+Analytische Stärke--> häufig Naturwissenschaftler,
+sicheres und reifes Auftreten, Abstraktionsfähigkeit,
+hohe Stressresistenz --> Häufig ca. 12 h am Stück Arbeit
+
+**** Anbieter von Strategieberatung
+McKinsey -> Ruf: Wenn die McKinsey Berater kommen wird jemand gefeuert
+Boston Consulting Group -> Stark in Marketing & Vertrieb
+Roland Berger Strategy Consultants 
+Bain & Company 
+Strategy&
+
+Berater steigen entweder auf oder bleiben beim Kunden. Dadurch großes, dichtes,
+Netzwerk und konstante Kosteneffizienz
+
+**** Hinführung zum Thema
+| Strategische Planung | Taktische Planung | Operative Planung |
+
+
+Was zeichnet eine erfolgreiche Unternehmensstrategie aus?
+| Externe Faktoren                       | Interne Faktoren |
+|----------------------------------------+------------------|
+| Alleinstellungsmerkmal aus Kundensicht |                  |
+| hinsichtlich                           |                  |
+| Preis                                  |                  |
+| Qualität                               |                  |
+| Image                                  |                  |
+| Produkt/Dienstleistung                 |                  |
+|                                        |                  |
+
+
+
+Entscheidungsfaktoren im Bereich der Unternehmensstrategie
+| Strategie als wichtige Entscheidung          | Strategie als risikoreiche Entscheidung          |
+|----------------------------------------------+--------------------------------------------------|
+| Strategische Entscheidungen sind Basis       | Strategische Entscheidungen haben lang-          |
+| des unternehmerischen Handelns               | fristigen Charakter und ein Ergebnis stellt sich |
+|                                              | nicht unmittelbar ein                            |
+|----------------------------------------------+--------------------------------------------------|
+| Strategische Entscheidungen münden           | Strategische Entscheidungen werden nachhaltig    |
+| unmittelbar in den taktischen und operativen | gefällt und sind teilweise unwiderruflich        |
+| Bereich                                      |                                                  |
+|----------------------------------------------+--------------------------------------------------|
+|                                              |                                                  |
+
+
+**** Werkzeuge der Strategieberatung
+
+***** Hypothesenbasierter Ansatz
+
+***** BCG-Matrix !!! Klausur !!!
+Geeignet um strategische Geschäftseinheiten oder Produkte differenziert darzustellen und
+deren weitere Entwicklung zu bewerten (Auch bekannt als Portfolio-Analyse)
+Siehe Notizen von Rechnungswesen&Controlling
+Zur BCG Matrix gibt es auch eine zeitabhängige
+Darstellung.
+Gut um Investitionsstrategie zu analysieren, illustrieren. 
+Wie ziehe ich mich zurück, dass ich Ressourcen für andere Produkte habe?
+
+Beispiel Bayer:
+CashCow: Aspirin
+Star: evtl. Krebsmedikamente, Hormonpräparate
+Poor Dog: Produkt das schon am Markt war und noch ist, aber nicht mehr so viel genutzt wird
+
+***** SWOT-Analyse
+
+** Notizen [2015-11-20 Fri]
+
+** Notizen [2015-11-27 Fri]
+*** Kaltacquise
+- Internet
+- Addressen kaufen
+- Handelsregister
+- Handelskammer
+- Telefonbuch
+- Messe
+- Kongresse
+- LinkedIn/Xing
+- Telefon
+- Email
+- Brief
+- persönlich
+* Daubenfelds BWL für Anfänger
+
+
+
+Zwei Präsentationen (werden zugesendet bzw. hochgeladen in ILIAS "WB03/Hintergrundmaterial" , PW: "#Porter1611#"):
+** Konzepte der BWL
+** BWL für Chemiker
+*** Strategie
+- Literatur von Bruce Henderson (Gründer von BCG)
+- Karl von Klausewitz --> Buch "Vom Kriege" --> Kapitel über Strategie
+- In unklarer Situation immer richtige Entscheidung treffen können
+- Strategie bedeutet große, tiefgreifende Schritte, Taktik kleine inkrementelle Schritte
+
+
+*** Strategien haben drei Komponenten:
+**** Zielkomponente
+Angestrebter zukünftiger Zustand, der durch die Strategie zu erreichen ist.
+In der Regel werden quantitative Ziele genannt (z.B. Umsatz, Marktanteil, Profitabilität, ...)
+**** Objektkomponente
+
+**** Aktionskomponente
+
+
+
+*** Geltungsbereiche von Strategie
+
+**** Unternehmensebene
+
+**** Geschäftsbereichsebene --> Der Bereich in dem man eigentlich von Strategie spricht
+
+
+Was macht mich erfolgreich?
+Kosten? Differenzierung? Nischenstrategie?
+
+
+
+
+**** Funktionsbereichsebene
+Eigentlich nicht im klassischen Sinne Strategie (also im Sinne von Bruce Henderson)
+--> Sehr feingliedrig
+
+
+
+
+
+*** Generische Strategien nach Porter
+Strategische Vorteile an Matrix aufgezeigt
+ |              | Uniqueness | Low cost position |
+ |--------------+------------+-------------------|
+ | Industrywide |            |                   |
+ |              |            |                   |
+ Nur mit konkreten Firmenbeispielen auf Folie
+
+Daubenfeld beurteilt diese Portermatrix als nicht so gut.
+
+
+
+
+*** 
+- Commodity oder Specialty? -> Kostengetrieben oder kundengetrieben?
+- Feedstock? -> Welcher Zugang zu Ausgangsmaterial?
+- Wertschöpfungskette verstehen
+-
+
+*** Strategieprozess
+Selbstanalyse-->Wettbewerberanalyse-->Wettbewerbsvorteile-->Erfolgsfaktoren-->Segmentierung-->Szenarien
+
+
+
+
+Aussage von Herr Daubenfeld zum Thema Chemieindustrie & Globalisierung : " Wenn Promotion, dann chinesisch oder arabisch lernen."
+
+*** Corporate Finance
+
+
+Externe Finanzierung:
+- Unternehmen erhält Kapital von außen (Eigen-oder Fremdfinanzierung)
+- Finanzierung kann durch EK - Geber oder durch FK-Geber erfolgen
+- EK und FK -Geber mit unterschiedlichem Risiko und Sicherheiten
+
+Interne Finanzierung:
+- Durch Geschäftstätigkeit erwirtschaftet das Unternehmen einen Überschussbetrag
+*** Insolvenz
+Bedeutet nicht automatisch Ende des Unternehmens. Wenn der Fortführungswert(z.B. wenn auf dem bestehenden Markt weiterhin
+profitabel gewirtschaftet werden kann) größer ist als der 
+Liquidationswert(Veräußerung der Vermögensgegenstände des Unternehmens)
+
+
+
+
+
+Buch: 100 Finanzkennzahlen
